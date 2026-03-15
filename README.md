@@ -28,3 +28,6 @@ Aktivasyon Fonksiyonu: 'ReLU'
 
 Optimizer: 'Adam'
 
+###  Proje Görselleri
+![Araç Fiyat Analizi](images/car_analysis.png)
+
